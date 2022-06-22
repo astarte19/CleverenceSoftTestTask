@@ -1,0 +1,15 @@
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/Task2.deps.json
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/Task2.runtimeconfig.json
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/Task2.runtimeconfig.dev.json
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/Task2.dll
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/ref/Task2.dll
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/bin/Debug/net5.0/Task2.pdb
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.csproj.AssemblyReference.cache
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.AssemblyInfoInputs.cache
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.AssemblyInfo.cs
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.csproj.CoreCompileInputs.cache
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.dll
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/ref/Task2.dll
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.pdb
+/Users/swiperrr/RiderProjects/CleverenceTask/Task2/obj/Debug/net5.0/Task2.genruntimeconfig.cache
